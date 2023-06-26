@@ -2,6 +2,9 @@
 
 ![DarkSaibot's GitHub stats](https://github-readme-stats.vercel.app/api?username=darksaibot&theme=algolia&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darksaibot&theme=algolia&show_icons=true)](https://github.com/darksaibot/github-readme-stats)
+
+### Programming languages ​​I've used:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dark-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dark-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,6 +18,8 @@
 </div>
 
 ##
+
+###  Find more about me:
 
 <div> 
   <a href="https://www.instagram.com/gabriel.sp10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
