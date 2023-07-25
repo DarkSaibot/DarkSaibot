@@ -1,7 +1,7 @@
 ### <h1 align="center">😎 Welcome to my profile! 😎 </h1>
 
-![DarkSaibot's GitHub stats](https://github-readme-stats.vercel.app/api?username=darksaibot&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darksaibot&show_icons=true&theme=algolia)](https://github.com/darksaibot/github-readme-stats)
+![DarkSaibot's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=darksaibot&show_icons=true&theme=algolia)
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=darksaibot&show_icons=true&theme=algolia" />
 
 
 ### <h3 align="left">Programming languages ​​I've used: </h3>
